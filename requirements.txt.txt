@@ -1,0 +1,7 @@
+flask
+moviepy==1.0.3
+qiskit
+qiskit-aer
+pydub
+numpy
+gunicorn
